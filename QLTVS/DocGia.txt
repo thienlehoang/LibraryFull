@@ -1,0 +1,4 @@
+1|John Doe|123456789|1/1/1980|Male|john.doe@email.com|123 Main St|1/1/2022|31/1/2022
+2|Jane Smith|987654321|15/5/1995|Female|jane.smith@email.com|456 Elm St|15/3/2021|14/3/2021
+3|Michael Johnson|555555555|20/11/1988|Male|michael.johnson@email.com|789 Oak St|10/6/2022|9/6/2022
+4|thu|23|2/2/2022|nu|thu|hoa |1/1/2022|10/1/2022
